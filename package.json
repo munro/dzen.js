@@ -12,7 +12,9 @@
   "scripts": {
     "test": "./node_modules/.bin/tap ./test/"
   },
-  "dependencies": {},
+  "dependencies": {
+    "ini": "1.0.2"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
